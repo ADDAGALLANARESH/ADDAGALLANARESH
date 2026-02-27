@@ -51,7 +51,7 @@ Git • GitHub • Code Reviews • Debugging • Performance Optimization • C
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: www.linkedin.com/in/naresh-addagalla-38693b3b3 
 - Email: addagallanaresh777@gmail.com  
 
 ---
