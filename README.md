@@ -9,7 +9,7 @@ Frontend Engineer with 3+ years of experience building scalable web applications
 
 ### 🚀 Professional Summary
 
-- 👨‍💻 4+ years of hands-on experience in React.js and React Native development  
+- 👨‍💻 2+ years of hands-on experience in React.js and React Native development  
 - ⚛️ Designed and developed modular, scalable web applications using React.js ecosystem  
 - 📱 Built and deployed cross-platform mobile applications using React Native CLI with native Android (APK/AAB) and iOS (Xcode) builds  
 - 🔐 Implemented secure authentication flows and role-based access control systems  
